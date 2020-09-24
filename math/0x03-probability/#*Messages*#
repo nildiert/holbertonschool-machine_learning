@@ -1,0 +1,46 @@
+Loading 00debian-vars...done
+Loading /home/vagrant/.emacs.d/recentf...done
+Cleaning up the recentf list...done (0 removed)
+For information about GNU Emacs and the GNU system, type C-h C-a.
+End of buffer [10 times]
+Mark set [4 times]
+Auto-saving...
+Mark set [3 times]
+Auto-saving...done
+Mark set [2 times]
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/*Messages*
+command-execute: Buffer is read-only: #<buffer *Messages*>
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Undo! [4 times]
+Type y, n, ! or SPC (the space bar): 
+Please type y, n, ! or SPC (the space bar):  [5 times]
+Quit
+Mark set
+Auto-saving...done
+Mark set [2 times]
+Auto-saving...done
+Mark set
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Auto-saving...
+Mark set
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Auto-saving...done
+Mark set
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Mark set
+Saving file /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py...
+Wrote /home/vagrant/holbertonschool-machine_learning/math/0x03-probability/normal.py
+Type C-h for help. [3 times]
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+save-buffers-kill-emacs: Command attempted to use minibuffer while in minibuffer
+Quit
+(No changes need to be saved)
+Saving file /home/vagrant/.emacs.d/recentf...
+Wrote /home/vagrant/.emacs.d/recentf
+Wrote /home/vagrant/.emacs.d/places

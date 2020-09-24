@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+"""
+Create a Layer with Dropout
+"""
+
+import tensorflow as tf
+
+
+def dropout_create_layer(prev, n, activation, keep_prob):
+    """
+    Function that creates a layer of a neural network
+    using dropout
+    """
+    dropout = tf.layers.Dropout(keep_prob)
+    kernel_init = tf.contrib.layers.variance_scaling_initializer(
+        mode="FAN_AVG")
+
+    layer = tf.layers.Dense(units=n, kernel_initializer=kernel_init,
+                            activation=activation,
+                            kernel_regularizer=dropout)
+    return layer(prev)
