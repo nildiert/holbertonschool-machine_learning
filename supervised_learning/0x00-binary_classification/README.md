@@ -1,7 +1,7 @@
 # 0x00. Binary Classification
 
 
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/10/83672a47323d70a88c5e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200925%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200925T163227Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=617d64db8e60986208646d02d62da0bcafb620ece06f395a7058ed031b85b58d" width="200">
+<img src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Scatter-Plot-of-Binary-Classification-Dataset.png" width="200">
 
 ## Background Context
 
