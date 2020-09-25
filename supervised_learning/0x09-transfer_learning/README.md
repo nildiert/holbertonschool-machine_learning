@@ -1,5 +1,7 @@
 # 0x09. Transfer Learning
 
+<img src="https://miro.medium.com/max/831/1*7Ip2_SeOz_BoruHEytEMlQ.png">
+
 
 ## Learning Objectives
 
