@@ -1,7 +1,7 @@
 # 0x00. Binary Classification
 
 
-<img src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Scatter-Plot-of-Binary-Classification-Dataset.png" width="200">
+<img src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Scatter-Plot-of-Binary-Classification-Dataset.png" >
 
 ## Background Context
 
