@@ -47,7 +47,7 @@
 ---
 *if* 
 
-\[t > 1\]
+$t > 1$
 
 *then*:
 \[max V(q',t-1)A_{q',q}B_{q,x_t} \rightarrow q'\in Q\]
