@@ -4,6 +4,8 @@
 
 > The parallel task in human and animal psychology is often referred to as concept learning.
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D12AQF2pDStSfFc-w/article-inline_image-shrink_1000_1488/0?e=1605139200&v=beta&t=Jb-yk2bNEK1Q6UT6ls-Kfq7fcO7QGPC4o7sPYTrrf04">
+
 * [0x00-binary_classification](https://github.com/nildiert/holbertonschool-machine_learning/tree/master/supervised_learning/0x00-binary_classification)
 * [0x01-multiclass_classification](https://github.com/nildiert/holbertonschool-machine_learning/tree/master/supervised_learning/0x01-multiclass_classification)
 * [0x02-tensorflow](https://github.com/nildiert/holbertonschool-machine_learning/tree/master/supervised_learning/0x02-tensorflow)
